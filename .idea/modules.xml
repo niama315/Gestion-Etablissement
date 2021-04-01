@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/EtablissementScolaire.iml" filepath="$PROJECT_DIR$/EtablissementScolaire.iml" />
+      <module fileurl="file://$PROJECT_DIR$/EtablissementScolaire-dao/EtablissementScolaire-dao.iml" filepath="$PROJECT_DIR$/EtablissementScolaire-dao/EtablissementScolaire-dao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/EtablissementScolaire-domaine/EtablissementScolaire-domaine.iml" filepath="$PROJECT_DIR$/EtablissementScolaire-domaine/EtablissementScolaire-domaine.iml" />
+      <module fileurl="file://$PROJECT_DIR$/EtablissementScolaire-presentation/EtablissementScolaire-presentation.iml" filepath="$PROJECT_DIR$/EtablissementScolaire-presentation/EtablissementScolaire-presentation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/EtablissementScolaire-service/EtablissementScolaire-service.iml" filepath="$PROJECT_DIR$/EtablissementScolaire-service/EtablissementScolaire-service.iml" />
+    </modules>
+  </component>
+</project>

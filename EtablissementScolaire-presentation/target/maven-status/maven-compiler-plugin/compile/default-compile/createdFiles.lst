@@ -1,0 +1,11 @@
+eu\ensup\etablissementscolaire\vues\Fenetre.class
+eu\ensup\etablissementscolaire\vues\PagePrincipal.class
+eu\ensup\etablissementscolaire\Lanceur.class
+eu\ensup\etablissementscolaire\vues\PageAuthentification.class
+eu\ensup\etablissementscolaire\vues\PageEditer.class
+eu\ensup\etablissementscolaire\vues\PageAddNote.class
+eu\ensup\etablissementscolaire\vues\PageAssocierEtudiant.class
+eu\ensup\etablissementscolaire\vues\PageListing$1.class
+eu\ensup\etablissementscolaire\vues\PageListing.class
+eu\ensup\etablissementscolaire\vues\PageFormulaire.class
+eu\ensup\etablissementscolaire\vues\PageStats.class
